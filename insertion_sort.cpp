@@ -1,3 +1,6 @@
+
+//worst case time complexity O(n^2)
+//Best case time complexity O(n)
 #include<bits/stdc++.h>
 using namespace std;
 int main()
